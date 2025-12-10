@@ -1,0 +1,22 @@
+h2{
+	color:pink;
+	background-color:greenyellow;"
+}
+.shape{
+	font-size:200%;
+}
+a{
+  font: 20px Arial, sans-serif;
+}
+#F{
+	font-size:80px; border:greeen dot;
+}
+.bg{
+	background-color:green;
+}
+.u h1{
+	font:bold;
+}
+h1:first-child{
+	font-size: 58px;
+}
